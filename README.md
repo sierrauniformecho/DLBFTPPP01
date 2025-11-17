@@ -9,16 +9,16 @@ Diese Studienabgabe gehört zum Modul *DLBFTPPP01 - Programmierung mit Python* a
 - Evaluation & Visualisierung der Prognosen
 
 ## Projektstruktur
-data = Rohdaten & gespeicherte CSVs
-src = Code-Module
-  fetch_data.py
-  prepare_data.py
-  model.py
-  evaluation.py
-  plotting.py
+- data = Rohdaten & gespeicherte CSVs
+ - src = Code-Module
+   - fetch_data.py = API Daten holen
+   - prepare_data.py = Features & Train/Test-Split
+   - model.py = Modellaufbau & Vorhersage
+   - evaluation.py = Fehlermaße
+   - plotting.py = Visualisierung
 
 
-Quellen: Alpha Vantage API
-Modul: DLBFTPPP01 - Programmierung mit Python
-Autor: S. Lohr
-Jahr: 2025
+#### Quelle: *Alpha Vantage API*
+#### Modul: *DLBFTPPP01 - Programmierung mit Python*
+#### Autor: *S. Lohr*
+#### Jahr: *2025*
