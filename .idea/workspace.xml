@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c7d913-8596-4876-b648-8ad5bf881067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DLBFTPPP01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fetch_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepare_data.py" afterDir="false" />
+    <list default="true" id="73c7d913-8596-4876-b648-8ad5bf881067" name="Changes" comment="add py files, requirements and notebook for jupyter">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -76,11 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763398513440</updated>
-      <workItem from="1763398514461" duration="1509000" />
+      <workItem from="1763398514461" duration="2913000" />
     </task>
+    <task id="LOCAL-00001" summary="add py files, requirements and notebook for jupyter">
+      <option name="closed" value="true" />
+      <created>1763400070586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763400070586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add py files, requirements and notebook for jupyter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add py files, requirements and notebook for jupyter" />
   </component>
 </project>

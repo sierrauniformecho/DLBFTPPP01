@@ -1,0 +1,9 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+*.ipync
+config.py
+data/*.csv
+data/*.json
